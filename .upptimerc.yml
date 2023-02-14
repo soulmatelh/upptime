@@ -1,6 +1,10 @@
 # Change these first
 owner: upptime # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+skipHomepageUpdate: true
+user-agent: soulmatelh
 
 sites:
   - name: test-1
@@ -68,7 +72,7 @@ i18n:
   ms: 毫秒
   loading: 加载中
   navGitHub: GitHub
-  footer: gd1214b保留所有权利。 Copyright © 2021 gd1214b. All Rights Reserved.
+  footer: soulmatelh保留所有权利。 Copyright © 2023 soulmatelh. All Rights Reserved.
   rateLimitExceededTitle: 超出速率限制
   rateLimitExceededIntro: 您已超过一小时内可以执行的请求数，因此您必须等待才能再次访问此网站。或者，您可以添加 GitHub 个人访问令牌以继续使用本网站。
   rateLimitExceededWhatDoesErrorMean: 这个错误是什么意思？本网站使用 GitHub API 访问有关我们网站状态的实时数据。默认情况下，GitHub 允许每个 IP 地址每小时 60 个请求，您已经消耗了这些请求。
@@ -115,8 +119,3 @@ i18n:
   degradedPerformance: "🟨 性能降低"
   completeOutage: "🟥 全部停机"
   partialOutage: "🟧 部分停机"
-  
-  skipDescriptionUpdate: true
-  skipTopicsUpdate: true
-  skipHomepageUpdate: true
-  user-agent: soulmatelh
