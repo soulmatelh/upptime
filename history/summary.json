@@ -1,7 +1,7 @@
 [
   {
     "name": "test-1",
-    "url": "https://test-1.soulmatelh.repl.co",
+    "url": "https://test-1.soulmatelh.repl.co/ecbff707-64c3-417d-a9cf-45795f3132d3",
     "icon": "https://icons.duckduckgo.com/ip3/test-1.soulmatelh.repl.co.ico",
     "slug": "test-1",
     "status": "down",
@@ -10,18 +10,18 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1440,
-    "timeDay": 1440,
-    "timeWeek": 1440,
-    "timeMonth": 1440,
-    "timeYear": 1440,
+    "time": 1672,
+    "timeDay": 1672,
+    "timeWeek": 1672,
+    "timeMonth": 1672,
+    "timeYear": 1672,
     "dailyMinutesDown": {
-      "2023-02-14": 6
+      "2023-02-14": 24
     }
   },
   {
     "name": "test-2",
-    "url": "https://test-2.soulmatelh.repl.co",
+    "url": "https://test-2.soulmatelh.repl.co/b077c371-491c-417e-8736-16a562eb00bb",
     "icon": "https://icons.duckduckgo.com/ip3/test-2.soulmatelh.repl.co.ico",
     "slug": "test-2",
     "status": "down",
@@ -30,49 +30,31 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 2113,
-    "timeDay": 2113,
-    "timeWeek": 2113,
-    "timeMonth": 2113,
-    "timeYear": 2113,
+    "time": 1633,
+    "timeDay": 1633,
+    "timeWeek": 1633,
+    "timeMonth": 1633,
+    "timeYear": 1633,
     "dailyMinutesDown": {
-      "2023-02-14": 6
+      "2023-02-14": 24
     }
   },
   {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
-    "slug": "hacker-news",
+    "name": "Alist",
+    "url": "https://web.soulmatelh1.repl.co",
+    "icon": "https://icons.duckduckgo.com/ip3/web.soulmatelh1.repl.co.ico",
+    "slug": "alist",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 421,
-    "timeDay": 421,
-    "timeWeek": 421,
-    "timeMonth": 421,
-    "timeYear": 421,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "Test Broken Site",
-    "url": "https://thissitedoesnotexist.koj.co",
-    "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.co.ico",
-    "slug": "test-broken-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 478,
+    "timeDay": 478,
+    "timeWeek": 478,
+    "timeMonth": 478,
+    "timeYear": 478,
     "dailyMinutesDown": {}
   }
 ]
