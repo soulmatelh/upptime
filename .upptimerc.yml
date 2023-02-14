@@ -4,13 +4,11 @@ repo: upptime # The name of this repository
 
 sites:
   - name: test-1
-    url: https://test-1.soulmatelh.repl.co
+    url: https://test-1.soulmatelh.repl.co/ecbff707-64c3-417d-a9cf-45795f3132d3
   - name: test-2
-    url: https://test-2.soulmatelh.repl.co
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+    url: https://test-2.soulmatelh.repl.co/b077c371-491c-417e-8736-16a562eb00bb
+  - name: Alist
+    url: https://web.soulmatelh1.repl.co
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
