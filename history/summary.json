@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/test-1.soulmatelh.repl.co.ico",
     "slug": "test-1",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 1672,
-    "timeDay": 1672,
-    "timeWeek": 1672,
-    "timeMonth": 1672,
-    "timeYear": 1672,
-    "dailyMinutesDown": {
-      "2023-02-14": 24
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1419,
+    "timeDay": 1419,
+    "timeWeek": 1419,
+    "timeMonth": 1419,
+    "timeYear": 1419,
+    "dailyMinutesDown": {}
   },
   {
     "name": "test-2",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/test-2.soulmatelh.repl.co.ico",
     "slug": "test-2",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 1633,
-    "timeDay": 1633,
-    "timeWeek": 1633,
-    "timeMonth": 1633,
-    "timeYear": 1633,
-    "dailyMinutesDown": {
-      "2023-02-14": 24
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1432,
+    "timeDay": 1432,
+    "timeWeek": 1432,
+    "timeMonth": 1432,
+    "timeYear": 1432,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Alist",
@@ -50,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 478,
-    "timeDay": 478,
-    "timeWeek": 478,
-    "timeMonth": 478,
-    "timeYear": 478,
+    "time": 379,
+    "timeDay": 379,
+    "timeWeek": 379,
+    "timeMonth": 379,
+    "timeYear": 379,
     "dailyMinutesDown": {}
   }
 ]
