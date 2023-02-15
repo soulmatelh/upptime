@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1119,
-    "timeDay": 574,
-    "timeWeek": 1119,
-    "timeMonth": 1119,
-    "timeYear": 1119,
+    "time": 1065,
+    "timeDay": 581,
+    "timeWeek": 1065,
+    "timeMonth": 1065,
+    "timeYear": 1065,
     "dailyMinutesDown": {}
   },
   {
@@ -22,19 +22,19 @@
     "url": "https://test-2.soulmatelh.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/test-2.soulmatelh.repl.co.ico",
     "slug": "test-2",
-    "status": "up",
-    "uptime": "96.44%",
-    "uptimeDay": "94.20%",
-    "uptimeWeek": "96.44%",
-    "uptimeMonth": "96.44%",
-    "uptimeYear": "96.44%",
-    "time": 2174,
-    "timeDay": 2644,
-    "timeWeek": 2174,
-    "timeMonth": 2174,
-    "timeYear": 2174,
+    "status": "down",
+    "uptime": "96.72%",
+    "uptimeDay": "94.61%",
+    "uptimeWeek": "96.72%",
+    "uptimeMonth": "96.72%",
+    "uptimeYear": "96.72%",
+    "time": 2104,
+    "timeDay": 2624,
+    "timeWeek": 2104,
+    "timeMonth": 2104,
+    "timeYear": 2104,
     "dailyMinutesDown": {
-      "2023-02-15": 83
+      "2023-02-15": 77
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1715,
-    "timeDay": 4427,
-    "timeWeek": 1715,
-    "timeMonth": 1715,
-    "timeYear": 1715,
+    "time": 1571,
+    "timeDay": 4358,
+    "timeWeek": 1571,
+    "timeMonth": 1571,
+    "timeYear": 1571,
     "dailyMinutesDown": {}
   }
 ]
