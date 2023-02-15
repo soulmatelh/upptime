@@ -22,19 +22,19 @@
     "url": "https://test-2.soulmatelh.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/test-2.soulmatelh.repl.co.ico",
     "slug": "test-2",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 945,
-    "timeDay": 487,
-    "timeWeek": 945,
-    "timeMonth": 945,
-    "timeYear": 945,
+    "status": "up",
+    "uptime": "99.70%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.70%",
+    "time": 1331,
+    "timeDay": 2053,
+    "timeWeek": 1331,
+    "timeMonth": 1331,
+    "timeYear": 1331,
     "dailyMinutesDown": {
-      "2023-02-15": 0
+      "2023-02-15": 6
     }
   },
   {
