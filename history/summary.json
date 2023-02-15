@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1119,
-    "timeDay": 1119,
+    "timeDay": 574,
     "timeWeek": 1119,
     "timeMonth": 1119,
     "timeYear": 1119,
@@ -29,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1007,
-    "timeDay": 1007,
+    "timeDay": 589,
     "timeWeek": 1007,
     "timeMonth": 1007,
     "timeYear": 1007,
@@ -40,17 +40,19 @@
     "url": "https://web.soulmatelh1.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/web.soulmatelh1.repl.co.ico",
     "slug": "alist",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 377,
-    "timeDay": 377,
-    "timeWeek": 377,
-    "timeMonth": 377,
-    "timeYear": 377,
-    "dailyMinutesDown": {}
+    "time": 1871,
+    "timeDay": 6408,
+    "timeWeek": 1871,
+    "timeMonth": 1871,
+    "timeYear": 1871,
+    "dailyMinutesDown": {
+      "2023-02-15": 0
+    }
   }
 ]
