@@ -10,14 +10,6 @@ sites:
       - 200
       - 201
       - 404
-  - name: test-2
-    url: https://test-2.soulmatelh.repl.co
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 404
-  - name: Alist
-    url: https://web.soulmatelh.repl.co
   - name: Alist
     url: https://web.soulmatelh.repl.co
 
