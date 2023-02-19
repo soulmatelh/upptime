@@ -12,6 +12,8 @@ sites:
       - 404
   - name: Alist
     url: https://web.soulmatelh.repl.co
+  - name: TG
+    url: https://tg.yuki.ren:8080  
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
