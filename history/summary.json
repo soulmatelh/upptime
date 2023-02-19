@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 956,
-    "timeDay": 587,
-    "timeWeek": 956,
-    "timeMonth": 956,
-    "timeYear": 956,
+    "time": 940,
+    "timeDay": 629,
+    "timeWeek": 940,
+    "timeMonth": 940,
+    "timeYear": 940,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1850,
-    "timeDay": 699,
-    "timeWeek": 1850,
-    "timeMonth": 1850,
-    "timeYear": 1850,
+    "time": 1800,
+    "timeDay": 799,
+    "timeWeek": 1800,
+    "timeMonth": 1800,
+    "timeYear": 1800,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "TG",
+    "url": "https://tg.yuki.ren:8080",
+    "icon": "https://icons.duckduckgo.com/ip3/tg.yuki.ren.ico",
+    "slug": "tg",
+    "status": "down",
+    "uptime": "11.66%",
+    "uptimeDay": "11.66%",
+    "uptimeWeek": "11.66%",
+    "uptimeMonth": "11.66%",
+    "uptimeYear": "11.66%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-02-19": 0
+    }
   }
 ]
