@@ -12,7 +12,7 @@ sites:
       - 404
   - name: Alist
     url: https://web.soulmatelh.repl.co
-  - name: 刮削
+  - name: javtube
     url: https://javtube-soulmatelh.koyeb.app
 
 status-website:
