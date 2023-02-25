@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 866,
     "timeDay": 577,
-    "timeWeek": 658,
+    "timeWeek": 666,
     "timeMonth": 866,
     "timeYear": 866,
     "dailyMinutesDown": {}
@@ -30,34 +30,27 @@
     "uptimeYear": "100.00%",
     "time": 1610,
     "timeDay": 671,
-    "timeWeek": 949,
+    "timeWeek": 988,
     "timeMonth": 1610,
     "timeYear": 1610,
     "dailyMinutesDown": {}
   },
   {
-    "name": "刮削",
+    "name": "javtube",
     "url": "https://javtube-soulmatelh.koyeb.app",
     "icon": "https://icons.duckduckgo.com/ip3/javtube-soulmatelh.koyeb.app.ico",
-    "slug": "",
+    "slug": "javtube",
     "status": "up",
-    "uptime": "72.67%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "82.72%",
-    "uptimeMonth": "72.67%",
-    "uptimeYear": "72.67%",
-    "time": 388,
-    "timeDay": 514,
-    "timeWeek": 388,
-    "timeMonth": 388,
-    "timeYear": 388,
-    "dailyMinutesDown": {
-      "2023-02-20": 723,
-      "2023-02-19": 338,
-      "2023-02-18": 66,
-      "2023-02-17": 333,
-      "2023-02-16": 227,
-      "2023-02-15": 92
-    }
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 286,
+    "timeDay": 286,
+    "timeWeek": 286,
+    "timeMonth": 286,
+    "timeYear": 286,
+    "dailyMinutesDown": {}
   }
 ]
