@@ -22,18 +22,20 @@
     "url": "https://web.soulmatelh.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/web.soulmatelh.repl.co.ico",
     "slug": "alist",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1455,
-    "timeDay": 644,
-    "timeWeek": 719,
-    "timeMonth": 1455,
-    "timeYear": 1455,
-    "dailyMinutesDown": {}
+    "time": 2153,
+    "timeDay": 13272,
+    "timeWeek": 3867,
+    "timeMonth": 2153,
+    "timeYear": 2153,
+    "dailyMinutesDown": {
+      "2023-03-03": 0
+    }
   },
   {
     "name": "javtube",
