@@ -22,7 +22,7 @@
     "url": "https://web.soulmatelh.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/web.soulmatelh.repl.co.ico",
     "slug": "alist",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 5595,
     "timeMonth": 2321,
     "timeYear": 2321,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-10": 0
+    }
   },
   {
     "name": "javtube",
