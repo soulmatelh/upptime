@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 982,
-    "timeDay": 692,
-    "timeWeek": 924,
-    "timeMonth": 982,
-    "timeYear": 982,
+    "time": 1012,
+    "timeDay": 2127,
+    "timeWeek": 963,
+    "timeMonth": 1012,
+    "timeYear": 1012,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/web.soulmatelh.repl.co.ico",
     "slug": "alist",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 2293,
-    "timeDay": 897,
-    "timeWeek": 5144,
-    "timeMonth": 2293,
-    "timeYear": 2293,
-    "dailyMinutesDown": {
-      "2023-03-10": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2258,
+    "timeDay": 890,
+    "timeWeek": 940,
+    "timeMonth": 2258,
+    "timeYear": 2258,
+    "dailyMinutesDown": {}
   },
   {
     "name": "javtube",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 248,
-    "timeDay": 250,
-    "timeWeek": 230,
-    "timeMonth": 248,
-    "timeYear": 248,
+    "time": 251,
+    "timeDay": 293,
+    "timeWeek": 222,
+    "timeMonth": 251,
+    "timeYear": 251,
     "dailyMinutesDown": {}
   }
 ]
