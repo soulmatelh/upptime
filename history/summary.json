@@ -4,19 +4,19 @@
     "url": "https://test-1.soulmatelh.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/test-1.soulmatelh.repl.co.ico",
     "slug": "test-1",
-    "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "97.00%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
-    "time": 1489,
-    "timeDay": 2376,
-    "timeWeek": 2070,
-    "timeMonth": 1489,
-    "timeYear": 1489,
+    "status": "down",
+    "uptime": "99.91%",
+    "uptimeDay": "97.65%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 1530,
+    "timeDay": 2492,
+    "timeWeek": 2172,
+    "timeMonth": 1530,
+    "timeYear": 1530,
     "dailyMinutesDown": {
-      "2023-03-12": 43
+      "2023-03-12": 34
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2225,
-    "timeDay": 768,
-    "timeWeek": 774,
-    "timeMonth": 2225,
-    "timeYear": 2225,
+    "time": 2192,
+    "timeDay": 675,
+    "timeWeek": 763,
+    "timeMonth": 2192,
+    "timeYear": 2192,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 257,
-    "timeDay": 345,
-    "timeWeek": 251,
-    "timeMonth": 257,
-    "timeYear": 257,
+    "time": 258,
+    "timeDay": 275,
+    "timeWeek": 277,
+    "timeMonth": 258,
+    "timeYear": 258,
     "dailyMinutesDown": {}
   }
 ]
