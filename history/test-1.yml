@@ -1,7 +1,7 @@
 url: https://test-1.soulmatelh.repl.co
-status: up
-code: 404
-responseTime: 5236
-lastUpdated: 2023-03-12T20:35:36.190Z
+status: down
+code: 429
+responseTime: 399
+lastUpdated: 2023-03-12T20:47:09.469Z
 startTime: Tue Feb 14 2023 07:43:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
