@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/test-1.soulmatelh.repl.co.ico",
     "slug": "test-1",
     "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "95.20%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
+    "uptime": "99.85%",
+    "uptimeDay": "96.00%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 1766,
     "timeDay": 2639,
     "timeWeek": 2399,
     "timeMonth": 1766,
     "timeYear": 1766,
     "dailyMinutesDown": {
-      "2023-03-13": 36,
+      "2023-03-13": 24,
       "2023-03-12": 34
     }
   },
@@ -25,18 +25,20 @@
     "url": "https://web.soulmatelh.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/web.soulmatelh.repl.co.ico",
     "slug": "alist",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2192,
-    "timeDay": 675,
-    "timeWeek": 763,
-    "timeMonth": 2192,
-    "timeYear": 2192,
-    "dailyMinutesDown": {}
+    "time": 2182,
+    "timeDay": 1177,
+    "timeWeek": 865,
+    "timeMonth": 2182,
+    "timeYear": 2182,
+    "dailyMinutesDown": {
+      "2023-03-13": 0
+    }
   },
   {
     "name": "javtube",
